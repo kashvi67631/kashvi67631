@@ -1,38 +1,50 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzV0M255eHl4NnZ4eHl4NnZ4eHl4NnZ4eHl4NnZ4eHl4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp8yYyG2bkc/giphy.gif" width="150" />
   
   # Hi, I'm Kashvi Pundir 👋
-  **AI-Native Product Designer & Frontend Engineer | B.Tech CSE '29**
+  ### Product Engineer | AI Workflows | Design Systems
   
-  *Building the future of human-AI collaboration.*
+  *I bridge the gap between high-fidelity design and production-ready code. Specializing in building AI-native products and scalable frontend systems.*
+  
 </div>
 
 ---
 
-### 🚀 Flagship Engineering & Core Systems
-*   **LuxeGen:** Architected an end-to-end AI code-streaming workspace. Engineered custom regex-based repair modules for malformed LLM tokens and fallback pipelines with exponential backoff.
-*   **Sortedd:** Migrated a legacy premium brand workflow to Next.js 15 App Router and Tailwind CSS v4. Cut production bundle size by 30% and pushed Google PageSpeed from 65 to 92.
-*   **OmniPost-AI:** One-click AI content distribution engine currently in active development.
+### 🚀 Impact Metrics
+<div align="center">
+  
+| 🚀 Products Shipped | ⚡ PageSpeed Improved | 📦 Bundle Size Reduced | 🎯 Design-to-Code Match |
+| :---: | :---: | :---: | :---: |
+| **5+** | **65 → 92** | **30%** | **100%** |
+
+</div>
 
 ---
 
-### 🛠️ Tech Arsenal & Framework Competency
+### 🛠️ Featured Projects
+* **[OmniPost AI](https://github.com/your-repo-link)** - AI-powered content distribution dashboard for automated social publishing. 
+    * `Next.js` `TypeScript` `Tailwind` `AI`
+* **[LuxeGen](https://github.com/your-repo-link)** - AI-native design-to-code workspace that turns ideas into production ready UI.
+    * `Next.js` `Gemini API` `Tailwind` `AI`
+* **[Sortedd](https://github.com/your-repo-link)** - Luxury concierge platform with premium UX and high performance engineering.
+    * `Next.js` `Tailwind` `Performance`
+
+---
+
+### 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-### 📊 System Real-Time Diagnostics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashv167631&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashv167631&layout=compact&theme=tokyonight" />
+  <p>Building products. Solving real problems. Shipping with precision. 💜</p>
 </div>
----
-
 ### 📊 System Real-Time Diagnostics
 
 <p align="center">
