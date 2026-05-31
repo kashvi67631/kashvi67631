@@ -1,36 +1,36 @@
-<h1 align="center">Hi, I'm Kashvi Pundir 👋</h1>
-<h3 align="center">AI-Native Product Designer & Frontend Engineer | B.Tech CSE '29</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Bridging+high-fidelity+UI+constraints;With+production-grade+system+engineering;Building+Next.js+15+%2B+Tailwind+v4+SaaS" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="100" height="100" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzV0M255eHl4NnZ4eHl4NnZ4eHl4NnZ4eHl4NnZ4eHl4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp8yYyG2bkc/giphy.gif" width="150" />
+  
+  # Hi, I'm Kashvi Pundir 👋
+  **AI-Native Product Designer & Frontend Engineer | B.Tech CSE '29**
+  
+  *Building the future of human-AI collaboration.*
+</div>
 
 ---
 
-### 🌌 Flagship Engineering & Core Systems
-
-* 🚀 **LuxeGen:** Architected an end-to-end AI code-streaming workspace. Engineered custom regex-based repair modules for malformed LLM tokens and fallback pipelines with exponential backoff ($429/503$) for resilience.
-* 🍸 **Sortedd:** Migrated a legacy premium brand workflow to Next.js 15 App Router and Tailwind CSS v4. Cut production bundle size by 30% and pushed Google PageSpeed from 65 to 92.
+### 🚀 Flagship Engineering & Core Systems
+*   **LuxeGen:** Architected an end-to-end AI code-streaming workspace. Engineered custom regex-based repair modules for malformed LLM tokens and fallback pipelines with exponential backoff.
+*   **Sortedd:** Migrated a legacy premium brand workflow to Next.js 15 App Router and Tailwind CSS v4. Cut production bundle size by 30% and pushed Google PageSpeed from 65 to 92.
+*   **OmniPost-AI:** One-click AI content distribution engine currently in active development.
 
 ---
 
 ### 🛠️ Tech Arsenal & Framework Competency
-
-<p align="left">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
+---
+
+### 📊 System Real-Time Diagnostics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kashv167631&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashv167631&layout=compact&theme=tokyonight" />
+</div>
 ---
 
 ### 📊 System Real-Time Diagnostics
