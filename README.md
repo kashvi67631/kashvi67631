@@ -1,11 +1,10 @@
-<!-- ===== NEON HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:FF2D95,100:00F0FF&height=200&section=header&text=Kashvi%20Pundir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Native%20Product%20Engineer&descSize=18&descAlignY=58"/>
-
-<!-- ===== TYPING EFFECT ===== -->
+<!-- ===== ANIMATED NAME (clean, no wave) ===== -->
 <div align="center">
-  <a href="https://github.com/kashvi-techie">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=AI-Native+Product+Engineer+%E2%9A%A1;Frontend+Developer+%7C+Product+Builder;Turning+ideas+into+production+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+AI" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=50&pause=1000&color=FF2D95&center=true&vCenter=true&width=750&height=80&lines=KASHVI+PUNDIR" alt="Kashvi Pundir" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=AI-Native+Product+Engineer+%E2%9A%A1;Frontend+Developer+%7C+Product+Builder;Turning+ideas+into+production+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+AI" alt="Roles" />
 </div>
 
 <div align="center">
@@ -13,10 +12,9 @@
   <img src="https://img.shields.io/github/followers/kashvi-techie?style=for-the-badge&color=8E2DE2&labelColor=000000&logo=github" />
 </div>
 
-<!-- ===== NEON DIVIDER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:FF2D95,100:00F0FF&height=3"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
 ```typescript
 const kashvi = {
@@ -29,9 +27,13 @@ const kashvi = {
 };
 ```
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF2D95,100:8E2DE2&height=3"/>
 
-## Tech Arsenal
+## ⚡ Tech Arsenal
 
 #### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -71,7 +73,7 @@ const kashvi = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:FF2D95,100:00F0FF&height=3"/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech | Links |
 |-----------|-------------|------|-------|
@@ -81,7 +83,7 @@ const kashvi = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF2D95,100:8E2DE2&height=3"/>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kashvi-techie&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF2D95&icon_color=00F0FF" />
@@ -96,13 +98,19 @@ const kashvi = {
   <img src="https://github-profile-trophy.vercel.app/?username=kashvi-techie&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 </div>
 
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kashvi-techie/kashvi-techie/output/github-snake-dark.svg" alt="snake animation" />
+</div>
+
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kashvi-techie&theme=synthwave&hide_border=true&bg_color=0D1117&color=00F0FF&line=FF2D95&point=ffffff" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:FF2D95,100:00F0FF&height=3"/>
 
-## Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kashvi-pundir-3502183b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
